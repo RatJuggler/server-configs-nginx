@@ -6,4 +6,11 @@ Forked from my branch which adds [miscellaneous headers](https://github.com/RatJ
 - Removed .github files and automated tests.
 - Removed example server configurations (conf.d).
 - Removed default certificate config (ssl/certificate_files.conf).
-- Enable my personal miscellaneous headers.
+- Enabled my personal miscellaneous headers.
+- Tweaked base configuration:
+  - Set user to nginx.
+  - Reduced worker connections to 1024.
+  - Set keep-alive timeout to 65s.
+  - Added Google fonts to CSP.
+  - Removed upgrade-insecure-requests from CSP.
+  
