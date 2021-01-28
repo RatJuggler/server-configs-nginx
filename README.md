@@ -5,3 +5,4 @@ Forked from my branch which adds [miscellaneous headers](https://github.com/RatJ
 
 - Removed .github files and automated tests.
 - Removed example server configurations (conf.d).
+- Removed default certificate config (ssl/certificate_files.conf).
