@@ -4,3 +4,4 @@ My curated version of [Nginx Server Configs](https://github.com/h5bp/server-conf
 Forked from my branch which adds [miscellaneous headers](https://github.com/RatJuggler/server-configs-nginx/tree/add-misc-headers).
 
 - Removed .github files and automated tests.
+- Removed example server configurations (conf.d).
