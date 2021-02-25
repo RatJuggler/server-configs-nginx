@@ -1,6 +1,6 @@
 # My [Nginx Server Configs](https://github.com/h5bp/server-configs-nginx) Fork
 
-[![Test](https://github.com/ratjuggler/server-configs-nginx/workflows/server/badge.svg)](https://github.com/ratjuggler/server-configs-nginx/actions?query=workflow%3Aserver)
+[![Test](https://github.com/ratjuggler/server-configs-nginx/workflows/server/badge.svg)](https://github.com/ratjuggler/server-configs-nginx/actions?query=workflow%3Aserver) Actions are currently disabled, see [issue](https://github.com/RatJuggler/server-configs-nginx/issues/8)
 
 This fork includes the following additions/changes to the base configs:
 - Added optional configuration for header *[X-Clacks-Overhead](https://xclacksoverhead.org)*.
