@@ -5,6 +5,7 @@
 This fork includes the following additions/changes to the base configs:
 - Added optional configuration for header *[X-Clacks-Overhead](https://xclacksoverhead.org)*.
 - Added optional configuration for header *X-Powered-By* just so that I can put "Raspberry Pi" in it.
+- Added a default server to expose health and metrics endpoints on port 8000.
 - Changes to nginx.conf:
   - Change user from *www-data* to *nginx*.
   - Reduced worker connections from *8000* to *1024*.
