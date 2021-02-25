@@ -1,3 +1,4 @@
+.idea
 logs/
 conf.d/*.conf
 !conf.d/.default.conf
