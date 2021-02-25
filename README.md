@@ -1,6 +1,14 @@
-# [Nginx Server Configs](https://github.com/h5bp/server-configs-nginx)
+# My [Nginx Server Configs](https://github.com/h5bp/server-configs-nginx) Fork
 
-[![Test](https://github.com/h5bp/server-configs-nginx/workflows/server/badge.svg)](https://github.com/h5bp/server-configs-nginx/actions?query=workflow%3Aserver)
+[![Test](https://github.com/ratjuggler/server-configs-nginx/workflows/server/badge.svg)](https://github.com/ratjuggler/server-configs-nginx/actions?query=workflow%3Aserver)
+
+This fork includes the following additions/changes to the base configs:
+- Optional configuration for header [X-Clacks-Overhead](https://xclacksoverhead.org).
+- Optional configuration for X-Powered-By just so that I can put "Raspberry Pi" in it.
+
+
+And now back to the regular README.md...
+
 
 **Nginx Server Configs** is a collection of configuration snippets that can help
 your server improve the website's performance and security, while also
